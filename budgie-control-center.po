@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: budgie-control-center 1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-23 16:46+0000\n"
-"PO-Revision-Date: 2024-11-01 10:07+0200\n"
-"Last-Translator: JTi65 <jouko.tiilikainen@outlook.com>\n"
+"PO-Revision-Date: 2024-11-05 16:26+0200\n"
+"Last-Translator: JT65 <jouko.tiilikainen@outlook.com>\n"
 "Language-Team: Finnish (https://app.transifex.com/buddiesofbudgie/teams/129844/fi/)\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -3589,7 +3589,7 @@ msgstr "PIN-koodin tulee olla 4-8 numeroa pitkä"
 
 #: panels/wwan/cc-wwan-device-page.c:317
 msgid "Unlocking…"
-msgstr "Avataan...."
+msgstr "Avataan…"
 
 #: panels/wwan/cc-wwan-sim-lock-dialog.c:230 panels/wwan/cc-wwan-mode-dialog.ui.h:3 panels/wwan/cc-wwan-network-dialog.ui.h:7
 msgid "_Set"
@@ -6194,7 +6194,7 @@ msgstr "Valitse muotoilu numeroille, päiväyksille ja valuutoille. Muutokset tu
 
 #: panels/region/cc-format-chooser.ui.h:6
 msgid "Search locales…"
-msgstr "Etsi alueet...."
+msgstr "Etsi alueet…"
 
 #: panels/region/cc-format-chooser.ui.h:7
 msgid "Common Formats"

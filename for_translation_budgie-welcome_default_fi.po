@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Budgie Welcome\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2016-02-27 12:48+0100\n"
-"PO-Revision-Date: 2024-11-01 10:23+0200\n"
-"Last-Translator: Oi Suomi On! <oisuomion@protonmail.com>, 2020\n"
+"PO-Revision-Date: 2024-11-06 10:22+0200\n"
+"Last-Translator: JT65 <jouko.tiilikainen@outlook.com>\n"
 "Language-Team: Finnish (https://app.transifex.com/ubuntu-budgie/teams/72251/"
 "fi/)\n"
 "Language: fi\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: default.html:14
 msgid "Budgie Makeovers & Layouts"
-msgstr "Budgie Makeovers & Layouts"
+msgstr "Budgie muotoilut & asettelut"
 
 #: default.html18, 29
 msgid "Switch Appearance"
